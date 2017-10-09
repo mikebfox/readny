@@ -1,16 +1,17 @@
-#Building
-Simply clone this repository and replace value of ```key``` in [Api.swift](/Reader for NYT/Api.swift) files with api key from New Your Times. You can request api key [here](https://developer.nytimes.com/signup).
-#Frameworks used
+# Building
+Simply clone this repository and replace value of ```key``` in [Api.swft](Reader%20for%20NYT/Api.swift) file with api key from New Your Times. You can request api key [here](https://developer.nytimes.com/signup).
+# Frameworks used
 **Siesta** for REST – https://github.com/bustoutsolutions/siesta
+
 **TimeAgoInWords** for date/time formatting – https://github.com/ello/TimeAgoInWords
-#Screenshots
-##Stories
+# Screenshots
+## Stories
 ![](/Screenshots/stories.png)
-##Sections
+## Sections
 ![](/Screenshots/sections.png)
-##Books
+## Books
 ![](/Screenshots/books.png)
-##Movies
+## Movies
 ![](/Screenshots/movies.png)
-##Settings
+## Settings
 ![](/Screenshots/settings.png)
