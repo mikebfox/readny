@@ -1,3 +1,7 @@
+# Readny
+# <img src="https://github.com/mikebfox/readny/raw/master/Screenshots/icon.png">
+Simple New York Times reader written in Swift 4 for iOS.
+
 # Building
 Simply clone this repository and replace value of ```key``` in [Api.swft](Reader%20for%20NYT/Api.swift) file with api key from New Your Times. You can request api key [here](https://developer.nytimes.com/signup).
 # Frameworks used
