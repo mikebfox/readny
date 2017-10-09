@@ -1,5 +1,5 @@
+![](Screenshots/icon.png)
 # Readny
-# <img src="https://github.com/mikebfox/readny/raw/master/Screenshots/icon.png">
 Simple New York Times reader written in Swift 4 for iOS.
 
 # Building
