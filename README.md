@@ -6,12 +6,12 @@ Simply clone this repository and replace value of ```key``` in [Api.swft](Reader
 **TimeAgoInWords** for date/time formatting – https://github.com/ello/TimeAgoInWords
 # Screenshots
 ## Stories
-![](/Screenshots/stories.png)
+# <img src="https://github.com/mikebfox/readny/raw/master/Screenshots/stories.png" width=320>
 ## Sections
-![](/Screenshots/sections.png)
+# <img src="https://github.com/mikebfox/readny/raw/master/Screenshots/sections.png" width=320>
 ## Books
-![](/Screenshots/books.png)
+# <img src="https://github.com/mikebfox/readny/raw/master/Screenshots/books.png" width=320>
 ## Movies
-![](/Screenshots/movies.png)
+# <img src="https://github.com/mikebfox/readny/raw/master/Screenshots/movies.png" width=320>
 ## Settings
-![](/Screenshots/settings.png)
+# <img src="https://github.com/mikebfox/readny/raw/master/Screenshots/settings.png" width=320>
